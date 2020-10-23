@@ -1,0 +1,14 @@
+2020-10-23 00:53:00,051 - Start logging
+2020-10-23 00:53:00,051 - Cell #1 allocated for page #0 of process #3
+2020-10-23 00:53:00,051 - Cell #3 allocated for page #1 of process #1
+2020-10-23 00:53:00,051 - Page #1 of process #0 is chosen to insert
+2020-10-23 00:53:00,052 - Page #1 of process #0 is chosen to insert
+2020-10-23 00:53:00,052 - Page #1 of process #1 is chosen to insert
+2020-10-23 00:53:00,052 - Page #2 of process #0 is chosen to insert
+2020-10-23 00:53:00,052 - Page #1 of process #1 is chosen to insert
+2020-10-23 00:53:00,052 - Page #1 of process #0 is chosen to insert
+2020-10-23 00:53:00,053 - Page #1 of process #1 is chosen to insert
+2020-10-23 00:53:00,053 - Page #2 of process #0 is chosen to insert
+2020-10-23 00:53:00,053 - Page #1 of process #1 is chosen to insert
+2020-10-23 00:53:00,053 - Page #0 of process #1 is chosen to insert
+2020-10-23 00:53:00,054 - Stop logging
